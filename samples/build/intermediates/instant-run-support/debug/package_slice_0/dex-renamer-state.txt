@@ -1,0 +1,4 @@
+#Wed Dec 06 22:54:20 EET 2017
+base.0=D\:\\downloads\\QRCodeReaderView-master\\samples\\build\\intermediates\\transforms\\dexMerger\\debug\\19
+renamed.0=classes.dex
+file.0=D\:\\downloads\\QRCodeReaderView-master\\samples\\build\\intermediates\\transforms\\dexMerger\\debug\\19\\classes.dex

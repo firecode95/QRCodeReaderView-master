@@ -1,0 +1,171 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\downloads\QRCodeReaderView-master\samples\src\main\AndroidManifest.xml:2:1-42:12
+INJECTED from D:\downloads\QRCodeReaderView-master\samples\src\main\AndroidManifest.xml:2:1-42:12
+INJECTED from D:\downloads\QRCodeReaderView-master\samples\src\main\AndroidManifest.xml:2:1-42:12
+INJECTED from D:\downloads\QRCodeReaderView-master\samples\src\main\AndroidManifest.xml:2:1-42:12
+MERGED from [com.dlazaro66.qrcodereaderview:qrcodereaderview:2.0.2] C:\Users\firec\.gradle\caches\transforms-1\files-1.1\qrcodereaderview-2.0.2.aar\8a28f1bed419d7fbee121f9340ff8639\AndroidManifest.xml:2:1-12:12
+MERGED from [com.android.support:design:25.1.0] C:\Users\firec\.gradle\caches\transforms-1\files-1.1\design-25.1.0.aar\f8e8967509e593fef25c44e611d1e029\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:appcompat-v7:25.1.0] C:\Users\firec\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.1.0.aar\0734d7e58457e14a924140377bdf4a3b\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:transition:25.1.0] C:\Users\firec\.gradle\caches\transforms-1\files-1.1\transition-25.1.0.aar\8cb389ac0a1bde35baa2fa6616e484eb\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-v4:25.1.0] C:\Users\firec\.gradle\caches\transforms-1\files-1.1\support-v4-25.1.0.aar\d1826727a7f7b24c794aefebe7c4482b\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\firec\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\d79df268bc26e29ceae8c4b30ca39b07\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:25.1.0] C:\Users\firec\.gradle\caches\transforms-1\files-1.1\support-fragment-25.1.0.aar\3321b47973cb948f9e0399d7ce0e7688\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-media-compat:25.1.0] C:\Users\firec\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.1.0.aar\6097950177b8cfd285aa71e1e2a88e50\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-utils:25.1.0] C:\Users\firec\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.1.0.aar\d756c19e76b256e3e5a31cde9ed5f83b\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:recyclerview-v7:25.1.0] C:\Users\firec\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.1.0.aar\4d9bb6b57345c4aa4665dd0f7cbc8bad\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:25.1.0] C:\Users\firec\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.1.0.aar\3d8ea61fe2994df64c44fe7bc60fcf19\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:animated-vector-drawable:25.1.0] C:\Users\firec\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.1.0.aar\48dcc7edca7ab2e36041905a3e6b4b58\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-vector-drawable:25.1.0] C:\Users\firec\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.1.0.aar\b3e4065b65d2e658a0173c7772d139b1\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:support-compat:25.1.0] C:\Users\firec\.gradle\caches\transforms-1\files-1.1\support-compat-25.1.0.aar\62842ce4f1ac4f1b1d78b2142f573ae0\AndroidManifest.xml:17:1-27:12
+INJECTED from D:\downloads\QRCodeReaderView-master\samples\src\main\AndroidManifest.xml:2:1-42:12
+INJECTED from D:\downloads\QRCodeReaderView-master\samples\src\main\AndroidManifest.xml:2:1-42:12
+INJECTED from D:\downloads\QRCodeReaderView-master\samples\src\main\AndroidManifest.xml:2:1-42:12
+	package
+		ADDED from D:\downloads\QRCodeReaderView-master\samples\src\main\AndroidManifest.xml:3:5-43
+		INJECTED from D:\downloads\QRCodeReaderView-master\samples\src\main\AndroidManifest.xml
+		INJECTED from D:\downloads\QRCodeReaderView-master\samples\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\downloads\QRCodeReaderView-master\samples\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from D:\downloads\QRCodeReaderView-master\samples\src\main\AndroidManifest.xml
+		INJECTED from D:\downloads\QRCodeReaderView-master\samples\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\downloads\QRCodeReaderView-master\samples\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from D:\downloads\QRCodeReaderView-master\samples\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from D:\downloads\QRCodeReaderView-master\samples\src\main\AndroidManifest.xml
+		INJECTED from D:\downloads\QRCodeReaderView-master\samples\src\main\AndroidManifest.xml
+uses-permission#android.permission.CAMERA
+ADDED from D:\downloads\QRCodeReaderView-master\samples\src\main\AndroidManifest.xml:7:5-65
+	android:name
+		ADDED from D:\downloads\QRCodeReaderView-master\samples\src\main\AndroidManifest.xml:7:22-62
+uses-feature#android.hardware.camera
+ADDED from D:\downloads\QRCodeReaderView-master\samples\src\main\AndroidManifest.xml:9:5-60
+	android:name
+		ADDED from D:\downloads\QRCodeReaderView-master\samples\src\main\AndroidManifest.xml:9:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from D:\downloads\QRCodeReaderView-master\samples\src\main\AndroidManifest.xml:10:5-70
+	android:name
+		ADDED from D:\downloads\QRCodeReaderView-master\samples\src\main\AndroidManifest.xml:10:19-67
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from D:\downloads\QRCodeReaderView-master\samples\src\main\AndroidManifest.xml:13:5-71
+	android:name
+		ADDED from D:\downloads\QRCodeReaderView-master\samples\src\main\AndroidManifest.xml:13:22-68
+uses-permission#android.permission.READ_PROFILE
+ADDED from D:\downloads\QRCodeReaderView-master\samples\src\main\AndroidManifest.xml:14:5-71
+	android:name
+		ADDED from D:\downloads\QRCodeReaderView-master\samples\src\main\AndroidManifest.xml:14:22-68
+uses-permission#android.permission.READ_CONTACTS
+ADDED from D:\downloads\QRCodeReaderView-master\samples\src\main\AndroidManifest.xml:15:5-72
+	android:name
+		ADDED from D:\downloads\QRCodeReaderView-master\samples\src\main\AndroidManifest.xml:15:22-69
+application
+ADDED from D:\downloads\QRCodeReaderView-master\samples\src\main\AndroidManifest.xml:17:5-40:19
+MERGED from [com.android.support:design:25.1.0] C:\Users\firec\.gradle\caches\transforms-1\files-1.1\design-25.1.0.aar\f8e8967509e593fef25c44e611d1e029\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:design:25.1.0] C:\Users\firec\.gradle\caches\transforms-1\files-1.1\design-25.1.0.aar\f8e8967509e593fef25c44e611d1e029\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.1.0] C:\Users\firec\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.1.0.aar\0734d7e58457e14a924140377bdf4a3b\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.1.0] C:\Users\firec\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.1.0.aar\0734d7e58457e14a924140377bdf4a3b\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:transition:25.1.0] C:\Users\firec\.gradle\caches\transforms-1\files-1.1\transition-25.1.0.aar\8cb389ac0a1bde35baa2fa6616e484eb\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:transition:25.1.0] C:\Users\firec\.gradle\caches\transforms-1\files-1.1\transition-25.1.0.aar\8cb389ac0a1bde35baa2fa6616e484eb\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:25.1.0] C:\Users\firec\.gradle\caches\transforms-1\files-1.1\support-v4-25.1.0.aar\d1826727a7f7b24c794aefebe7c4482b\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.1.0] C:\Users\firec\.gradle\caches\transforms-1\files-1.1\support-v4-25.1.0.aar\d1826727a7f7b24c794aefebe7c4482b\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\firec\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\d79df268bc26e29ceae8c4b30ca39b07\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\firec\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\d79df268bc26e29ceae8c4b30ca39b07\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-fragment:25.1.0] C:\Users\firec\.gradle\caches\transforms-1\files-1.1\support-fragment-25.1.0.aar\3321b47973cb948f9e0399d7ce0e7688\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.1.0] C:\Users\firec\.gradle\caches\transforms-1\files-1.1\support-fragment-25.1.0.aar\3321b47973cb948f9e0399d7ce0e7688\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.1.0] C:\Users\firec\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.1.0.aar\6097950177b8cfd285aa71e1e2a88e50\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.1.0] C:\Users\firec\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.1.0.aar\6097950177b8cfd285aa71e1e2a88e50\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.1.0] C:\Users\firec\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.1.0.aar\d756c19e76b256e3e5a31cde9ed5f83b\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.1.0] C:\Users\firec\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.1.0.aar\d756c19e76b256e3e5a31cde9ed5f83b\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.1.0] C:\Users\firec\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.1.0.aar\3d8ea61fe2994df64c44fe7bc60fcf19\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.1.0] C:\Users\firec\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.1.0.aar\3d8ea61fe2994df64c44fe7bc60fcf19\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.1.0] C:\Users\firec\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.1.0.aar\48dcc7edca7ab2e36041905a3e6b4b58\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.1.0] C:\Users\firec\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.1.0.aar\48dcc7edca7ab2e36041905a3e6b4b58\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.1.0] C:\Users\firec\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.1.0.aar\b3e4065b65d2e658a0173c7772d139b1\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-vector-drawable:25.1.0] C:\Users\firec\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.1.0.aar\b3e4065b65d2e658a0173c7772d139b1\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-compat:25.1.0] C:\Users\firec\.gradle\caches\transforms-1\files-1.1\support-compat-25.1.0.aar\62842ce4f1ac4f1b1d78b2142f573ae0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.1.0] C:\Users\firec\.gradle\caches\transforms-1\files-1.1\support-compat-25.1.0.aar\62842ce4f1ac4f1b1d78b2142f573ae0\AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from D:\downloads\QRCodeReaderView-master\samples\src\main\AndroidManifest.xml:20:9-32
+	android:icon
+		ADDED from D:\downloads\QRCodeReaderView-master\samples\src\main\AndroidManifest.xml:19:9-45
+	android:allowBackup
+		ADDED from D:\downloads\QRCodeReaderView-master\samples\src\main\AndroidManifest.xml:18:9-35
+	android:theme
+		ADDED from D:\downloads\QRCodeReaderView-master\samples\src\main\AndroidManifest.xml:21:9-67
+activity#com.example.qr_readerexample.LoginActivity
+ADDED from D:\downloads\QRCodeReaderView-master\samples\src\main\AndroidManifest.xml:22:9-30:20
+	android:label
+		ADDED from D:\downloads\QRCodeReaderView-master\samples\src\main\AndroidManifest.xml:24:13-45
+	android:name
+		ADDED from D:\downloads\QRCodeReaderView-master\samples\src\main\AndroidManifest.xml:23:13-42
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\downloads\QRCodeReaderView-master\samples\src\main\AndroidManifest.xml:25:13-29:29
+action#android.intent.action.MAIN
+ADDED from D:\downloads\QRCodeReaderView-master\samples\src\main\AndroidManifest.xml:26:17-69
+	android:name
+		ADDED from D:\downloads\QRCodeReaderView-master\samples\src\main\AndroidManifest.xml:26:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\downloads\QRCodeReaderView-master\samples\src\main\AndroidManifest.xml:28:17-77
+	android:name
+		ADDED from D:\downloads\QRCodeReaderView-master\samples\src\main\AndroidManifest.xml:28:27-74
+activity#com.example.qr_readerexample.Main_log
+ADDED from D:\downloads\QRCodeReaderView-master\samples\src\main\AndroidManifest.xml:31:9-39:20
+	android:parentActivityName
+		ADDED from D:\downloads\QRCodeReaderView-master\samples\src\main\AndroidManifest.xml:34:13-56
+	android:label
+		ADDED from D:\downloads\QRCodeReaderView-master\samples\src\main\AndroidManifest.xml:33:13-60
+	android:theme
+		ADDED from D:\downloads\QRCodeReaderView-master\samples\src\main\AndroidManifest.xml:35:13-47
+	android:name
+		ADDED from D:\downloads\QRCodeReaderView-master\samples\src\main\AndroidManifest.xml:32:13-37
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from D:\downloads\QRCodeReaderView-master\samples\src\main\AndroidManifest.xml:36:13-38:78
+	android:value
+		ADDED from D:\downloads\QRCodeReaderView-master\samples\src\main\AndroidManifest.xml:38:17-75
+	android:name
+		ADDED from D:\downloads\QRCodeReaderView-master\samples\src\main\AndroidManifest.xml:37:17-63
+uses-sdk
+INJECTED from D:\downloads\QRCodeReaderView-master\samples\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\downloads\QRCodeReaderView-master\samples\src\main\AndroidManifest.xml
+INJECTED from D:\downloads\QRCodeReaderView-master\samples\src\main\AndroidManifest.xml
+MERGED from [com.dlazaro66.qrcodereaderview:qrcodereaderview:2.0.2] C:\Users\firec\.gradle\caches\transforms-1\files-1.1\qrcodereaderview-2.0.2.aar\8a28f1bed419d7fbee121f9340ff8639\AndroidManifest.xml:8:5-10:41
+MERGED from [com.dlazaro66.qrcodereaderview:qrcodereaderview:2.0.2] C:\Users\firec\.gradle\caches\transforms-1\files-1.1\qrcodereaderview-2.0.2.aar\8a28f1bed419d7fbee121f9340ff8639\AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:design:25.1.0] C:\Users\firec\.gradle\caches\transforms-1\files-1.1\design-25.1.0.aar\f8e8967509e593fef25c44e611d1e029\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:25.1.0] C:\Users\firec\.gradle\caches\transforms-1\files-1.1\design-25.1.0.aar\f8e8967509e593fef25c44e611d1e029\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.1.0] C:\Users\firec\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.1.0.aar\0734d7e58457e14a924140377bdf4a3b\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.1.0] C:\Users\firec\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.1.0.aar\0734d7e58457e14a924140377bdf4a3b\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:transition:25.1.0] C:\Users\firec\.gradle\caches\transforms-1\files-1.1\transition-25.1.0.aar\8cb389ac0a1bde35baa2fa6616e484eb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:25.1.0] C:\Users\firec\.gradle\caches\transforms-1\files-1.1\transition-25.1.0.aar\8cb389ac0a1bde35baa2fa6616e484eb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.1.0] C:\Users\firec\.gradle\caches\transforms-1\files-1.1\support-v4-25.1.0.aar\d1826727a7f7b24c794aefebe7c4482b\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.1.0] C:\Users\firec\.gradle\caches\transforms-1\files-1.1\support-v4-25.1.0.aar\d1826727a7f7b24c794aefebe7c4482b\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\firec\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\d79df268bc26e29ceae8c4b30ca39b07\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\firec\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\d79df268bc26e29ceae8c4b30ca39b07\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:25.1.0] C:\Users\firec\.gradle\caches\transforms-1\files-1.1\support-fragment-25.1.0.aar\3321b47973cb948f9e0399d7ce0e7688\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.1.0] C:\Users\firec\.gradle\caches\transforms-1\files-1.1\support-fragment-25.1.0.aar\3321b47973cb948f9e0399d7ce0e7688\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.1.0] C:\Users\firec\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.1.0.aar\6097950177b8cfd285aa71e1e2a88e50\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.1.0] C:\Users\firec\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.1.0.aar\6097950177b8cfd285aa71e1e2a88e50\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.1.0] C:\Users\firec\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.1.0.aar\d756c19e76b256e3e5a31cde9ed5f83b\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.1.0] C:\Users\firec\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.1.0.aar\d756c19e76b256e3e5a31cde9ed5f83b\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:recyclerview-v7:25.1.0] C:\Users\firec\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.1.0.aar\4d9bb6b57345c4aa4665dd0f7cbc8bad\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.1.0] C:\Users\firec\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.1.0.aar\4d9bb6b57345c4aa4665dd0f7cbc8bad\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-core-ui:25.1.0] C:\Users\firec\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.1.0.aar\3d8ea61fe2994df64c44fe7bc60fcf19\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.1.0] C:\Users\firec\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.1.0.aar\3d8ea61fe2994df64c44fe7bc60fcf19\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:animated-vector-drawable:25.1.0] C:\Users\firec\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.1.0.aar\48dcc7edca7ab2e36041905a3e6b4b58\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.1.0] C:\Users\firec\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.1.0.aar\48dcc7edca7ab2e36041905a3e6b4b58\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.1.0] C:\Users\firec\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.1.0.aar\b3e4065b65d2e658a0173c7772d139b1\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-vector-drawable:25.1.0] C:\Users\firec\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.1.0.aar\b3e4065b65d2e658a0173c7772d139b1\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-compat:25.1.0] C:\Users\firec\.gradle\caches\transforms-1\files-1.1\support-compat-25.1.0.aar\62842ce4f1ac4f1b1d78b2142f573ae0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.1.0] C:\Users\firec\.gradle\caches\transforms-1\files-1.1\support-compat-25.1.0.aar\62842ce4f1ac4f1b1d78b2142f573ae0\AndroidManifest.xml:21:5-23:58
+INJECTED from D:\downloads\QRCodeReaderView-master\samples\src\main\AndroidManifest.xml
+INJECTED from D:\downloads\QRCodeReaderView-master\samples\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.1.0] C:\Users\firec\.gradle\caches\transforms-1\files-1.1\design-25.1.0.aar\f8e8967509e593fef25c44e611d1e029\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from D:\downloads\QRCodeReaderView-master\samples\src\main\AndroidManifest.xml
+		ADDED from D:\downloads\QRCodeReaderView-master\samples\src\main\AndroidManifest.xml
+		INJECTED from D:\downloads\QRCodeReaderView-master\samples\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\downloads\QRCodeReaderView-master\samples\src\main\AndroidManifest.xml
+		ADDED from D:\downloads\QRCodeReaderView-master\samples\src\main\AndroidManifest.xml
+		INJECTED from D:\downloads\QRCodeReaderView-master\samples\src\main\AndroidManifest.xml
